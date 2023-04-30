@@ -1,0 +1,8 @@
+fastapi==0.63.0
+uvicorn==0.13.4
+psycopg2-binary==2.8.6
+SQLAlchemy==1.4.20
+alembic==1.6.4
+celery==5.1.2
+aiohttp==3.7.4
+aio-pika==7.7.1
